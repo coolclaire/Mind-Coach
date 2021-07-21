@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8270313E26A8D08C0069FBDF /* Comfortaa in Resources */ = {isa = PBXBuildFile; fileRef = 8270313D26A8D08C0069FBDF /* Comfortaa */; };
 		B5120BA726A774AF00654243 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5120BA626A774AF00654243 /* AppDelegate.swift */; };
 		B5120BA926A774AF00654243 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5120BA826A774AF00654243 /* SceneDelegate.swift */; };
 		B5120BAB26A774AF00654243 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5120BAA26A774AF00654243 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8270313D26A8D08C0069FBDF /* Comfortaa */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Comfortaa; sourceTree = "<group>"; };
 		B5120BA326A774AF00654243 /* Mind Coach.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mind Coach.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5120BA626A774AF00654243 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5120BA826A774AF00654243 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				B5120BAC26A774AF00654243 /* Main.storyboard */,
 				B5120BB226A774B100654243 /* Assets.xcassets */,
 				B5120BB426A774B100654243 /* LaunchScreen.storyboard */,
+				8270313D26A8D08C0069FBDF /* Comfortaa */,
 				B5120BB726A774B100654243 /* Info.plist */,
 				B5120BAF26A774AF00654243 /* Mind_Coach.xcdatamodeld */,
 			);
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5120BB626A774B100654243 /* LaunchScreen.storyboard in Resources */,
+				8270313E26A8D08C0069FBDF /* Comfortaa in Resources */,
 				B5120BB326A774B100654243 /* Assets.xcassets in Resources */,
 				B5120BAE26A774AF00654243 /* Main.storyboard in Resources */,
 			);
